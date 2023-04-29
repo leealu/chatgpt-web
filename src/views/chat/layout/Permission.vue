@@ -60,7 +60,7 @@ function handlePress(event: KeyboardEvent) {
             403
           </h2>
           <p class="text-base text-center text-slate-500 dark:text-slate-500">
-            {{ $t('common.unauthorizedTips') }}
+            未经授权，请扫描二维码关注公众号回复chatgpt获取验证密钥，若已知密钥请直接输入
           </p>
           <Icon403 class="w-[200px] m-auto" />
         </header>
