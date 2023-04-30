@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://blog.801100.tk/upload/favicon-bak.ico',
       name: 'Lee Studio',
-      description: ' <a href="https://blog.801100.tk" class="text-blue-500" target="_blank" >Lee's Blog</a>',
+      description: ' <a href="https://blog.801100.tk" class="text-blue-500" target="_blank" >Lee Blog</a>',
     },
   }
 }
