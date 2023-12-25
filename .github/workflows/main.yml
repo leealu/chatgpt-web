@@ -39,3 +39,4 @@ jobs:
           tags: |
             ${{ secrets.DOCKER_USERNAME }}/chatgpt-web:${{ github.ref_name }}
             ${{ secrets.DOCKER_USERNAME }}/chatgpt-web:latest
+            
